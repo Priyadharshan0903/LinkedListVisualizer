@@ -2,7 +2,7 @@
   "name": "linkedlistbuilder",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Priyadharshan0903.github.io/DSA_Visualizer",
+  "homepage": "https://Priyadharshan0903.github.io/LinkedListVisualizer",
   "type": "module",
   "scripts": {
     "dev": "vite",
